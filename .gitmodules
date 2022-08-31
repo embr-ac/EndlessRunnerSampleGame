@@ -1,0 +1,3 @@
+[submodule "embrace-unity-sdk"]
+	path = embrace-unity-sdk
+	url = git@github.com:embrace-io/embrace-unity-sdk.git
