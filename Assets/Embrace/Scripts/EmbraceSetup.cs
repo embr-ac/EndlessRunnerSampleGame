@@ -32,7 +32,7 @@ public class EmbraceSetup : MonoBehaviour
         {
             Embrace.Instance.StartSDK();
             Embrace.Instance.EndAppStartup();
-            Embrace.Instance.StartPerformanceCapture(useJson, writeInterval, memoryInterval);
+            Embrace.Instance.StartPerformanceCapture(useJson, writeInterval, memoryInterval, direction);
         }
     }
 
