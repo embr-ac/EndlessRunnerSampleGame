@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0a5ccebd89d4f75933b41e87cf62b31, type: 3}
   m_Name: DefaultIOSConfiguration
   m_EditorClassIdentifier: 
-  API_KEY: 
-  API_TOKEN: 
+  API_KEY: ZiHUT
+  API_TOKEN: 13f327e891ad45858949004eb755b9f1
   CRASH_REPORT_ENABLED: 1
   STARTUP_MOMENT_SCREENSHOT_ENABLED: 0
   CAPTURE_COORDINATES: 1

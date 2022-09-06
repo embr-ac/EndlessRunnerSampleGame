@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a670acc537be4b72964abaa6f4074487, type: 3}
   m_Name: DefaultAndroidConfiguration
   m_EditorClassIdentifier: 
-  app_id: 
-  api_token: 
+  app_id: GoPEz
+  api_token: 13f327e891ad45858949004eb755b9f1
   ndk_enabled: 1
   sdk_config:
     app:
