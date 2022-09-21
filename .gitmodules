@@ -4,3 +4,6 @@
 [submodule "embrace-ios-sdk"]
 	path = embrace-ios-sdk
 	url = git@github.com:embrace-io/embrace-ios-sdk.git
+[submodule "embrace-android-sdk3"]
+	path = embrace-android-sdk3
+	url = git@github.com:embrace-io/embrace-android-sdk3.git
